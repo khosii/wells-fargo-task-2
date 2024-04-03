@@ -6,6 +6,7 @@ import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.Id;
 
+    //checking if it's in the correct repo
 @Entity
 public class Advisor {
 
